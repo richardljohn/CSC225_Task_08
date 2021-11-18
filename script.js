@@ -107,7 +107,7 @@ function printer(){
             console.log("CSC225 RULES I LOVE JAVASCRIPT")
         }
         else if((v % 3 == 0)){
-            console.log("CSC RULES")
+            console.log("CSC225 RULES")
         }
         else if((v % 5 == 0)){
             console.log("I LOVE JAVASCRIPT")
