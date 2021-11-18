@@ -123,8 +123,8 @@ console.log(toCelcius([23, 32, 41, 50, 59]));
 console.log(passOrFail([20, 30, 50, 80, 90, 100]))
 console.log(germanNumbers());
 console.log(returnPrimeNumbers());
-*/ printer();
-
+printer();
+*/
 
 /*
 Output: 
