@@ -56,7 +56,6 @@ function passOrFail(array){
     return passArray;
 }
 
-
 //write code that loops through the two variables returns an array ['2 is zwei', '3 is drei', '4 is vier', '5 is fünf', '6 is sechs']
 // example:
 // return: ['2 is zwei', '3 is drei', '4 is vier', '5 is fünf', '6 is sechs']
@@ -74,7 +73,6 @@ function germanNumbers(){
     }
     return numbers;
 }
-
 
 // write code that returns an array of ONLY prime numbers that are in the array numbers
 // example: 
@@ -117,7 +115,8 @@ function printer(){
     }
 }
 
-
+/* 
+Tests
 console.log(reverseThisString("Hello"));
 console.log(swapCase("Hello World"));
 console.log(toCelcius([23, 32, 41, 50, 59]));
@@ -125,3 +124,114 @@ console.log(passOrFail([20, 30, 50, 80, 90, 100]))
 console.log(germanNumbers());
 console.log(returnPrimeNumbers());
 printer();
+*/
+
+/*
+Output: 
+olleH
+hELLO wORLD
+[ -5, 0, 5, 10, 15 ]
+[ false, false, false, true, true, true ]
+[ '2 is zwei', '3 is drei', '4 is vier', '5 is fünf', '6 is sechs' ]
+[ 2, 3, 5, 7, 11, 13 ]
+1
+2
+CSC RULES
+4
+I LOVE JAVASCRIPT
+CSC RULES
+7
+8
+CSC RULES
+I LOVE JAVASCRIPT
+11
+CSC RULES
+13
+14
+CSC225 RULES I LOVE JAVASCRIPT
+16
+17
+CSC RULES
+19
+I LOVE JAVASCRIPT
+CSC RULES
+22
+23
+CSC RULES
+I LOVE JAVASCRIPT
+26
+CSC RULES
+28
+29
+CSC225 RULES I LOVE JAVASCRIPT
+31
+32
+CSC RULES
+34
+I LOVE JAVASCRIPT
+CSC RULES
+37
+38
+CSC RULES
+I LOVE JAVASCRIPT
+41
+CSC RULES
+43
+44
+CSC225 RULES I LOVE JAVASCRIPT
+46
+47
+CSC RULES
+49
+I LOVE JAVASCRIPT
+CSC RULES
+52
+53
+CSC RULES
+I LOVE JAVASCRIPT
+56
+CSC RULES
+58
+59
+CSC225 RULES I LOVE JAVASCRIPT
+61
+62
+CSC RULES
+64
+I LOVE JAVASCRIPT
+CSC RULES
+67
+68
+CSC RULES
+I LOVE JAVASCRIPT
+71
+CSC RULES
+73
+74
+CSC225 RULES I LOVE JAVASCRIPT
+76
+77
+CSC RULES
+79
+I LOVE JAVASCRIPT
+CSC RULES
+82
+83
+CSC RULES
+I LOVE JAVASCRIPT
+86
+CSC RULES
+88
+89
+CSC225 RULES I LOVE JAVASCRIPT
+91
+92
+CSC RULES
+94
+I LOVE JAVASCRIPT
+CSC RULES
+97
+98
+CSC RULES
+I LOVE JAVASCRIPT
+*/
