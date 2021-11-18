@@ -116,7 +116,7 @@ function printer(){
 }
 
 /* 
-Tests
+Tests:
 console.log(reverseThisString("Hello"));
 console.log(swapCase("Hello World"));
 console.log(toCelcius([23, 32, 41, 50, 59]));
